@@ -1,5 +1,7 @@
-# Always-On-Stop
+# Always-On-Top
 
 ## Usage
-Have any window in focus and press CTRL + Space to activate Always-On-Top mode.
-Press CTRL + Space again on the same window to deactivate Always-On-Top.
+* Run compiled/application.exe
+* Have any window in focus
+* Press CTRL + Space to activate Always-On-Top mode
+* Optional: Press CTRL + Space again on the same window to deactivate Always-On-Top mode
